@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{A885BE74-D858-4F77-B50C-D09EFB8E3FDF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp2_隨機抽出每位同學</RootNamespace>
-    <AssemblyName>ConsoleApp2_隨機抽出每位同學</AssemblyName>
+    <RootNamespace>ConsoleApp2_隨機抽出不同顏色</RootNamespace>
+    <AssemblyName>ConsoleApp2_隨機抽出不同顏色</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

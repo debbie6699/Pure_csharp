@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2_隨機抽出每位同學", "ConsoleApp2_隨機抽出每位同學\ConsoleApp2_隨機抽出每位同學.csproj", "{A885BE74-D858-4F77-B50C-D09EFB8E3FDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2_隨機抽出不同顏色", "ConsoleApp2_隨機抽出每位同學\ConsoleApp2_隨機抽出不同顏色.csproj", "{A885BE74-D858-4F77-B50C-D09EFB8E3FDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
